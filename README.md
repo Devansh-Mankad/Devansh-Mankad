@@ -16,27 +16,27 @@
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-Python | Java | C
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🌐 Web Development
-Flask | React.js | Streamlit
+**Web Development**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-### 🤖 AI / ML
-Machine Learning | NLP | Gemini API | Multi-Agent Systems
+**AI / ML**  
+Machine Learning • NLP • Gemini API • Multi-Agent Systems
 
-### 🗄️ Database
-MySQL | SQLite
+**Databases**  
+MySQL • SQLite
 
-### ⚙️ Core CS
-Data Structures & Algorithms | OOP | DBMS | Operating Systems
-
-### 🧰 Tools
-Git | GitHub | Notion
-
----
+**Tools**  
+Git • GitHub • VS Code • Notion
+'''
 
 ## 🚀 Featured Projects
 
