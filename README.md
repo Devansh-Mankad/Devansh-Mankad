@@ -1,89 +1,91 @@
-# Hi there, I'm Devansh 👋
+# 👋 Hi, I'm Devansh Mankad
 
-🚀 Computer Engineering Student | AI/ML & Full Stack Developer  
-🧠 Building intelligent systems using AI, LLMs, and scalable web architectures  
+🚀 Computer Engineering Student | AI/ML Engineer | Full Stack Developer  
+🧠 Building intelligent systems using AI, LLMs & scalable web technologies  
 📍 Mehsana, Gujarat, India  
 
 ---
 
-## 💡 About Me
+## 🌟 About Me
 
-- 🎓 Computer Engineering student with **CGPA: 9.48/10**
-- 💻 Full Stack Developer experienced in **Flask, React.js, MySQL**
-- 🤖 Passionate about **AI, LLMs, NLP, and Multi-Agent Systems**
-- 🧪 Currently exploring **LLM-based reasoning systems & AI chatbots**
-- 🎯 Goal: Become a **strong AI Engineer / Full Stack AI Developer**
+I am a passionate Computer Engineering student with strong interest in **Artificial Intelligence, Machine Learning, and Full Stack Development**.  
+I enjoy building real-world systems that combine **AI + Web Applications + Scalable Backend Architecture**.
+
+- 🎓 CGPA: 9.48/10  
+- 🤖 Focus: AI Systems, LLM Applications, Multi-Agent Architectures  
+- 💻 Full Stack Developer (Flask + React.js)  
+- 🧪 Research interest in improving LLM reasoning quality  
+- 🎯 Goal: AI Engineer / Software Engineer (Product-based companies)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+| Category | Technologies |
+|----------|-------------|
+| 👨‍💻 Languages | Python, Java, C |
+| 🌐 Web Development | Flask, React.js, Streamlit |
+| 🤖 AI / ML | Machine Learning, NLP, Gemini API, Multi-Agent Systems |
+| 🗄️ Databases | MySQL, SQLite |
+| ⚙️ CS Fundamentals | DSA, OOP, DBMS, Operating Systems |
+| 🔌 APIs | Google Gemini API, GoogleTrans API, REST APIs |
+| 🧰 Tools | Git, GitHub, VS Code, Notion |
 
-**Web Development**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
-**AI / ML**  
-Machine Learning • NLP • Gemini API • Multi-Agent Systems
-
-**Databases**  
-MySQL • SQLite
-
-**Tools**  
-Git • GitHub • VS Code • Notion
-'''
+---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Dual-Agent AI Chatbot (Research Project)
-- Designed a **multi-agent LLM system using Gemma models**
-- One agent refines prompts, another generates responses
-- Research comparing **raw LLM vs optimized prompt pipeline**
-- Focus: improving response quality for vague user queries
+> Advanced LLM-based system improving response quality using multi-agent architecture
+
+- Designed a **dual-agent LLM pipeline using Gemma models**
+- One agent refines prompts, second generates optimized responses
+- Compared raw LLM output vs refined pipeline performance
+- Focused on improving reasoning quality for vague queries
 
 ---
 
 ### 💬 General AI Chatbot
-- Built a **Streamlit + Google Gemini AI chatbot**
+> Context-aware conversational AI assistant
+
+- Built using **Streamlit + Google Gemini API**
 - Supports multi-turn conversations
-- Context-aware response generation using Gemini API
+- Maintains contextual memory across chat sessions
 
 ---
 
 ### 🍔 Food Ordering Web Application
-- Full-stack system using **Flask + MySQL**
-- Features:
-  - User authentication & role-based access
-  - Cart, checkout, order tracking
-  - Admin dashboard with analytics
-- Includes real-time order management system
+> Full-stack production-style web system
+
+- Flask + MySQL backend architecture
+- User authentication + role-based access (Admin/User)
+- Cart, checkout, order history system
+- Admin dashboard with analytics & order management
 
 ---
 
 ### 🌍 Multilingual Translator App
-- Flask-based translation system
-- Uses GoogleTrans library
-- Supports real-time multilingual translation
+> Real-time language translation web tool
+
+- Built using Flask backend
+- GoogleTrans API integration
+- Supports multiple languages for instant translation
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 4th Rank — GTU Semester 4 (Computer Engineering)
-- 🥇 6th Rank — GTU Semester 5 (Computer Engineering)
-- 💡 Solved **212+ LeetCode problems** (DSA focused)
+- 🥇 Ranked **4th in GTU Semester 4 (Computer Engineering)**
+- 🥇 Ranked **6th in GTU Semester 5**
+- ⚡ Solved **212+ LeetCode problems (DSA focused)**
+- 🧠 Strong consistency in competitive programming practice
 
 ---
 
 ## 📜 Certifications
 
-- Ethical Hacking & Penetration Testing — C-DAC NOIDA (2025)
-- Machine Learning in Python — IBM (Coursera)
+- Ethical Hacking & Penetration Testing — C-DAC NOIDA (2025)  
+- Machine Learning in Python — IBM (Coursera)  
 
 ---
 
@@ -99,6 +101,14 @@ Git • GitHub • VS Code • Notion
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-Mankad&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/devanshmankad  
@@ -109,6 +119,8 @@ Git • GitHub • VS Code • Notion
 
 ## ⚡ Philosophy
 
-> “I don’t just build projects — I build systems that think, learn, and solve real problems.”
+> “I don’t just build applications — I build intelligent systems that solve real-world problems.”
 
 ---
+
+⭐ If you like my work, feel free to explore my repositories!
