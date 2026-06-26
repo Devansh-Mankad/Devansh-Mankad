@@ -98,7 +98,6 @@ I enjoy building real-world systems that combine **AI + Web Applications + Scala
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Mankad&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Activity Graph
