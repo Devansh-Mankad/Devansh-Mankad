@@ -1,95 +1,122 @@
 # 👋 Hi, I'm Devansh Mankad
 
-🚀 Computer Engineering Student | AI/ML Engineer | Full Stack Developer  
-🧠 Building intelligent systems using AI, LLMs & scalable web technologies  
+🚀 AI/ML Engineer | Full Stack Developer | Computer Engineering Student  
+🧠 Building intelligent systems using AI, LLMs, and scalable web architectures  
 📍 Mehsana, Gujarat, India  
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-I am a passionate Computer Engineering student with strong interest in **Artificial Intelligence, Machine Learning, and Full Stack Development**.  
-I enjoy building real-world systems that combine **AI + Web Applications + Scalable Backend Architecture**.
+Computer Engineering student focused on building **AI-powered applications and production-grade web systems**.
 
-- 🎓 CGPA: 9.48/10  
-- 🤖 Focus: AI Systems, LLM Applications, Multi-Agent Architectures  
-- 💻 Full Stack Developer (Flask + React.js)  
-- 🧪 Research interest in improving LLM reasoning quality  
-- 🎯 Goal: AI Engineer / Software Engineer (Product-based companies)
+I specialize in combining:
+- 🤖 AI/LLMs (Gemini, multi-agent systems)
+- 🌐 Full Stack Development (Flask, React)
+- ⚙️ System Design & Backend Engineering
+
+### 🎯 Current Focus
+- LLM-based intelligent systems
+- Multi-agent AI architectures
+- Scalable backend design
+- Real-world AI applications
+
+### 🎓 Academic Performance
+- CGPA: 9.48 / 10
+- GTU Rank: 4th (Sem 4), 6th (Sem 5)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| 👨‍💻 Languages | Python, Java, C |
-| 🌐 Web Development | Flask, React.js, Streamlit |
-| 🤖 AI / ML | Machine Learning, NLP, Gemini API, Multi-Agent Systems |
-| 🗄️ Databases | MySQL, SQLite |
-| ⚙️ CS Fundamentals | DSA, OOP, DBMS, Operating Systems |
-| 🔌 APIs | Google Gemini API, GoogleTrans API, REST APIs |
-| 🧰 Tools | Git, GitHub, VS Code, Notion |
+### 💻 Programming Languages
+Python • Java • C
+
+### 🌐 Full Stack Development
+Flask • React.js • Streamlit • HTML • CSS • JavaScript
+
+### 🤖 AI / ML
+Machine Learning • NLP • Gemini API • LLM Applications • Multi-Agent Systems
+
+### 🗄️ Databases
+MySQL • SQLite
+
+### ⚙️ Computer Science Fundamentals
+Data Structures & Algorithms • OOP • DBMS • Operating Systems
+
+### 🔌 Tools & Platforms
+Git • GitHub • VS Code • REST APIs • Notion
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Dual-Agent AI Chatbot (Research Project)
-> Advanced LLM-based system improving response quality using multi-agent architecture
+Advanced LLM system designed to improve reasoning quality using a **multi-agent architecture**.
 
-- Designed a **dual-agent LLM pipeline using Gemma models**
+- Built a dual-agent pipeline using LLM models
 - One agent refines prompts, second generates optimized responses
-- Compared raw LLM output vs refined pipeline performance
-- Focused on improving reasoning quality for vague queries
+- Evaluated improvement in response quality
+- Focused on reasoning enhancement for ambiguous queries
 
 ---
 
-### 💬 General AI Chatbot
-> Context-aware conversational AI assistant
+### 💬 Nova AI – Multilingual Voice AI Chatbot
+Conversational AI assistant powered by Google Gemini.
 
-- Built using **Streamlit + Google Gemini API**
-- Supports multi-turn conversations
-- Maintains contextual memory across chat sessions
+- Real-time streaming responses
+- Multilingual conversation support
+- Voice input and speech output
+- Context-aware chat memory system
 
 ---
 
-### 🍔 Food Ordering Web Application
-> Full-stack production-style web system
+### 🍔 CrunchyFood – Food Ordering System
+Full-stack restaurant ordering platform.
 
-- Flask + MySQL backend architecture
-- User authentication + role-based access (Admin/User)
-- Cart, checkout, order history system
-- Admin dashboard with analytics & order management
+- Flask + MySQL architecture
+- Role-based authentication (Admin/User)
+- Cart, checkout, and order management system
+- Admin dashboard with product management
+
+---
+
+### 📄 ResumeIQ – AI Resume Analyzer
+AI-powered ATS resume evaluation system.
+
+- Resume vs Job Description matching
+- ATS scoring engine
+- Skill extraction using NLP + Gemini
+- Personalized improvement suggestions
 
 ---
 
 ### 🌍 Multilingual Translator App
-> Real-time language translation web tool
+Real-time translation system.
 
-- Built using Flask backend
-- GoogleTrans API integration
-- Supports multiple languages for instant translation
+- Flask-based backend
+- Google Translate API integration
+- Multi-language support
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Ranked **4th in GTU Semester 4 (Computer Engineering)**
-- 🥇 Ranked **6th in GTU Semester 5**
-- ⚡ Solved **212+ LeetCode problems (DSA focused)**
-- 🧠 Strong consistency in competitive programming practice
+- 🥇 GTU Rank 4 (Sem 4), Rank 6 (Sem 5)
+- ⚡ 212+ LeetCode problems solved
+- 🧠 Strong consistency in DSA & problem solving
+- 🔬 Built multiple AI + Full Stack production projects
 
 ---
 
 ## 📜 Certifications
 
-- Ethical Hacking & Penetration Testing — C-DAC NOIDA (2025)  
-- Machine Learning in Python — IBM (Coursera)  
+- Ethical Hacking & Penetration Testing — C-DAC NOIDA (2025)
+- Machine Learning with Python — IBM (Coursera)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mankad&show_icons=true&theme=tokyonight" />
@@ -98,9 +125,6 @@ I enjoy building real-world systems that combine **AI + Web Applications + Scala
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Mankad&theme=tokyonight" />
 </p>
----
-
-## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-Mankad&theme=tokyo-night" />
@@ -111,15 +135,15 @@ I enjoy building real-world systems that combine **AI + Web Applications + Scala
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/devanshmankad  
-- 📧 Email: devanshmankad61@gmail.com  
 - 💻 GitHub: https://github.com/Devansh-Mankad  
+- 📧 Email: devanshmankad61@gmail.com  
 
 ---
 
 ## ⚡ Philosophy
 
-> “I don’t just build applications — I build intelligent systems that solve real-world problems.”
+> “I build intelligent systems that solve real-world problems, not just projects.”
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories!
+⭐ If you like my work, explore my repositories and feel free to connect!
