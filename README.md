@@ -1,149 +1,256 @@
-# 👋 Hi, I'm Devansh Mankad
+# Hi there 👋 I'm Devansh Mankad
 
-🚀 AI/ML Engineer | Full Stack Developer | Computer Engineering Student  
-🧠 Building intelligent systems using AI, LLMs, and scalable web architectures  
-📍 Mehsana, Gujarat, India  
+### AI Engineer • Full Stack Developer • Computer Engineering Student
 
----
+Building AI-powered applications, LLM systems, and scalable backend architectures.
 
-## 🧠 About Me
-
-Computer Engineering student focused on building **AI-powered applications and production-grade web systems**.
-
-I specialize in combining:
-- 🤖 AI/LLMs (Gemini, multi-agent systems)
-- 🌐 Full Stack Development (Flask, React)
-- ⚙️ System Design & Backend Engineering
-
-### 🎯 Current Focus
-- LLM-based intelligent systems
-- Multi-agent AI architectures
-- Scalable backend design
-- Real-world AI applications
-
-### 🎓 Academic Performance
-- CGPA: 9.48 / 10
-- GTU Rank: 4th (Sem 4), 6th (Sem 5)
+📍 Mehsana, Gujarat, India
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Programming Languages
-Python • Java • C
+I'm a Computer Engineering student passionate about designing intelligent software that solves real-world problems.
 
-### 🌐 Full Stack Development
-Flask • React.js • Streamlit • HTML • CSS • JavaScript
+My interests lie at the intersection of:
 
-### 🤖 AI / ML
-Machine Learning • NLP • Gemini API • LLM Applications • Multi-Agent Systems
+* 🤖 Artificial Intelligence & Large Language Models
+* 🌐 Full Stack Web Development
+* ⚙️ Backend Engineering & System Design
+* 📊 Machine Learning & Natural Language Processing
 
-### 🗄️ Databases
-MySQL • SQLite
-
-### ⚙️ Computer Science Fundamentals
-Data Structures & Algorithms • OOP • DBMS • Operating Systems
-
-### 🔌 Tools & Platforms
-Git • GitHub • VS Code • REST APIs • Notion
+I enjoy transforming research ideas into production-ready applications while writing clean, maintainable, and scalable code.
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-### 🧠 Dual-Agent AI Chatbot (Research Project)
-Advanced LLM system designed to improve reasoning quality using a **multi-agent architecture**.
-
-- Built a dual-agent pipeline using LLM models
-- One agent refines prompts, second generates optimized responses
-- Evaluated improvement in response quality
-- Focused on reasoning enhancement for ambiguous queries
-
----
-
-### 💬 Nova AI – Multilingual Voice AI Chatbot
-Conversational AI assistant powered by Google Gemini.
-
-- Real-time streaming responses
-- Multilingual conversation support
-- Voice input and speech output
-- Context-aware chat memory system
+* Multi-Agent AI Systems
+* LLM Engineering
+* Retrieval-Augmented Generation (RAG)
+* AI-powered SaaS Applications
+* Backend Architecture with Flask
+* Advanced Data Structures & Algorithms
 
 ---
 
-### 🍔 CrunchyFood – Food Ordering System
-Full-stack restaurant ordering platform.
+## Education
 
-- Flask + MySQL architecture
-- Role-based authentication (Admin/User)
-- Cart, checkout, and order management system
-- Admin dashboard with product management
+**Bachelor of Engineering — Computer Engineering**
 
----
+**Academic Performance**
 
-### 📄 ResumeIQ – AI Resume Analyzer
-AI-powered ATS resume evaluation system.
-
-- Resume vs Job Description matching
-- ATS scoring engine
-- Skill extraction using NLP + Gemini
-- Personalized improvement suggestions
+* CGPA: **9.48 / 10**
+* GTU Rank **4** (Semester 4)
+* GTU Rank **6** (Semester 5)
 
 ---
 
-### 🌍 Multilingual Translator App
-Real-time translation system.
+# Tech Stack
 
-- Flask-based backend
-- Google Translate API integration
-- Multi-language support
+### Languages
+
+```text
+Python • Java • C • SQL
+```
+
+### AI & Machine Learning
+
+```text
+Machine Learning
+Natural Language Processing
+Google Gemini API
+Prompt Engineering
+LLM Applications
+Multi-Agent AI Systems
+```
+
+### Backend
+
+```text
+Flask
+REST APIs
+SQLite
+MySQL
+```
+
+### Frontend
+
+```text
+HTML
+CSS
+JavaScript
+React
+Streamlit
+```
+
+### Computer Science
+
+```text
+Data Structures
+Algorithms
+OOP
+DBMS
+Operating Systems
+Computer Networks
+```
+
+### Tools
+
+```text
+Git
+GitHub
+VS Code
+Postman
+Notion
+```
 
 ---
 
-## 🏆 Achievements
+# Featured Projects
 
-- 🥇 GTU Rank 4 (Sem 4), Rank 6 (Sem 5)
-- ⚡ 212+ LeetCode problems solved
-- 🧠 Strong consistency in DSA & problem solving
-- 🔬 Built multiple AI + Full Stack production projects
+## ResumeIQ — AI Resume Analyzer
+
+An AI-powered resume evaluation platform that combines traditional ATS techniques with Large Language Models.
+
+### Highlights
+
+* AI Resume Parsing using Gemini
+* Resume vs Job Description Matching
+* ATS Score Calculation
+* Semantic Similarity using TF-IDF
+* Intelligent Skill Gap Detection
+* Personalized Resume Recommendations
+* Interactive Dashboard with Analytics
+* Resume Analysis History
+
+**Tech Stack**
+
+Python • Flask • SQLite • Gemini API • Plotly • Scikit-learn
 
 ---
 
-## 📜 Certifications
+## Dual-Agent AI Chatbot
 
-- Ethical Hacking & Penetration Testing — C-DAC NOIDA (2025)
-- Machine Learning with Python — IBM (Coursera)
+Research-inspired conversational AI architecture designed to improve response quality through multiple specialized agents.
+
+### Highlights
+
+* Multi-agent reasoning pipeline
+* Prompt optimization agent
+* Response generation agent
+* Improved reasoning for ambiguous queries
+* Modular AI workflow
+
+**Tech Stack**
+
+Python • Gemini API • Prompt Engineering
 
 ---
 
-## 📊 GitHub Analytics
+## Nova AI
+
+A multilingual conversational assistant powered by Google Gemini.
+
+### Features
+
+* Real-time AI conversations
+* Voice input
+* Speech synthesis
+* Conversation memory
+* Multilingual support
+
+**Tech Stack**
+
+Python • Flask • Gemini API
+
+---
+
+## CrunchyFood
+
+Full-stack online food ordering platform.
+
+### Features
+
+* Authentication
+* Shopping Cart
+* Order Management
+* Admin Dashboard
+* Product Management
+
+**Tech Stack**
+
+Flask • MySQL • HTML • CSS • JavaScript
+
+---
+
+## Multilingual Translator
+
+Translation platform supporting multiple languages.
+
+### Features
+
+* Real-time translation
+* Fast API integration
+* Responsive interface
+
+---
+
+# Achievements
+
+* 🏅 GTU Rank 4 (Semester 4)
+* 🏅 GTU Rank 6 (Semester 5)
+* 💯 Solved **212+** Data Structures & Algorithms problems
+* 🚀 Built multiple end-to-end AI and Full Stack applications
+* 📚 Strong foundation in Computer Science fundamentals
+
+---
+
+# Certifications
+
+* Ethical Hacking & Penetration Testing — C-DAC Noida
+* Machine Learning with Python — IBM (Coursera)
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mankad&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devansh-Mankad&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mankad&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Mankad&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-Mankad&theme=tokyo-night" />
-</p>
+> **Note:** GitHub's statistics cards may occasionally take time to refresh because they are cached by the provider.
 
 ---
 
-## 🌐 Connect With Me
+# What I'm Learning
 
-- 💼 LinkedIn: https://linkedin.com/in/devanshmankad  
-- 💻 GitHub: https://github.com/Devansh-Mankad  
-- 📧 Email: devanshmankad61@gmail.com  
-
----
-
-## ⚡ Philosophy
-
-> “I build intelligent systems that solve real-world problems, not just projects.”
+* Advanced LLM Engineering
+* Agentic AI Workflows
+* RAG Pipelines
+* Vector Databases
+* System Design
+* Cloud Deployment
+* Docker & Kubernetes
 
 ---
 
-⭐ If you like my work, explore my repositories and feel free to connect!
+# Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/devanshmankad
+* 💻 GitHub: https://github.com/Devansh-Mankad
+* 📧 Email: [devanshmankad61@gmail.com](mailto:devanshmankad61@gmail.com)
+
+---
+
+# Philosophy
+
+> *"Build systems that solve real problems with simplicity, scalability, and intelligence."*
+
+---
+
+If you find my work interesting, feel free to explore my repositories or connect with me.
