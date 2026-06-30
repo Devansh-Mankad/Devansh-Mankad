@@ -101,7 +101,6 @@ Computer Networks
 Git
 GitHub
 VS Code
-Postman
 Notion
 ```
 
@@ -200,7 +199,7 @@ Translation platform supporting multiple languages.
 
 * 🏅 GTU Rank 4 (Semester 4)
 * 🏅 GTU Rank 6 (Semester 5)
-* 💯 Solved **212+** Data Structures & Algorithms problems
+* 💯 Solved **200+** Data Structures & Algorithms problems
 * 🚀 Built multiple end-to-end AI and Full Stack applications
 * 📚 Strong foundation in Computer Science fundamentals
 
