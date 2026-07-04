@@ -220,10 +220,6 @@ Translation platform supporting multiple languages.
 
 ## GitHub Statistics
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mankad&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Devansh-Mankad&theme=tokyonight&hide_border=true"/>
 </p>
 > **Note:** GitHub's statistics cards may occasionally take time to refresh because they are cached by the provider.
@@ -246,7 +242,7 @@ Translation platform supporting multiple languages.
 
 * 💼 LinkedIn: https://linkedin.com/in/devanshmankad
 * 💻 GitHub: https://github.com/Devansh-Mankad
-* 📧 Email: [devanshmankad61@gmail.com](mailto:devanshmankad61@gmail.com)
+* 📧 Email: (mailto:devanshmankad61@gmail.com)
 
 ---
 
