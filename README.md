@@ -42,7 +42,7 @@ I enjoy transforming research ideas into production-ready applications while wri
 
 * CGPA: **9.74 / 10**
 * 🏅 GTU Rank 1 (Semester 6)
-* 🏅 GTU Rank 4 (Semester 4)
+* 🏅 GTU Rank 4 (Semester 4) 
 * 🏅 GTU Rank 6 (Semester 5)
 
 ---
