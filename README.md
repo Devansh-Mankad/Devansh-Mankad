@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Devansh Mankad
 
-### AI Engineer • Full Stack Developer • Computer Engineering Student
+### AI Engineer • Full Stack Developer • Computer Engineering Student • University Topper • Institute Topper 
 
 Building AI-powered applications, LLM systems, and scalable backend architectures.
 
@@ -41,6 +41,7 @@ I enjoy transforming research ideas into production-ready applications while wri
 **Academic Performance**
 
 * CGPA: **9.74 / 10**
+* 🏅 GTU Rank 1 (Semester 6)
 * 🏅 GTU Rank 4 (Semester 4)
 * 🏅 GTU Rank 6 (Semester 5)
 
